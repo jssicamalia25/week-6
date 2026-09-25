@@ -1,3 +1,44 @@
-body {	background-color:#fff7fb;}
-h1 {	color:#b30e58; }
-p { color:#de478b; }
+body { background-color:#fff7fb; }
+
+h1 {
+    color:#4d1531;
+    text-align:center;
+    font-size: 38pt;
+    font-weight: normal;
+    font-family: sans-serif;
+    font-style: italic;
+}
+
+p {
+    color:#ffffff;
+    background-color: blue;
+    padding: 0.6em;
+    margin: auto;
+    text-align: right;
+    border: 4px dashed black;
+	width: 50%;
+	min-width: 40em;
+}
+
+.kanan { text-align: right; }
+.kiri { text-align: left; }
+.tengah { text-align: center; }
+.backgroundbiru { background-color: #7591a1; } 
+.backgroundpink { background-color: #e34993; } 
+.backgroundkuning { background-color: #e3bf49; } 
+.backgroundcoklat { background-color: #6b5a20; } 
+.backgroundbata { background-color: #6b2020; } 
+.backgroundungu { background-color: #6b206b; } 
+.backgroundcyan { background-color: #3d989c; } 
+.backgroundabu { background-color: #5c6b6b; } 
+.backgroundarmy { background-color: #40471e; } 
+
+
+div {
+    text-align:center;
+}
+
+a {
+	color: #140952;
+	text-decoration:none;
+}
