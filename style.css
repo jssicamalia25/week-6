@@ -39,6 +39,6 @@ div {
 }
 
 a {
-	color: #140952;
-	text-decoration:none;
+	color: blue;
+    text-decoration: underline; 
 }
